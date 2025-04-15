@@ -1,2 +1,2 @@
 # learn-demo
-for learning purpose
+This is demo for learning git hub.
